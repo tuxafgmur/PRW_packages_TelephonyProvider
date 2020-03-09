@@ -1,0 +1,3 @@
+# android_packages_providers_TelephonyProvider
+
+Path: packages/providers/TelephonyProvider
